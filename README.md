@@ -17,7 +17,9 @@ Recebi warning no firefox - comentado no Laracast
 
 S01E03 - Páginas e props
 
+S01E04 - Inertia Link, Component
 
+S01E05 - 
 
 
 
