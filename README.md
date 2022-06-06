@@ -9,9 +9,13 @@
 
 ## Observações
 
-S01E02
+S01E02 - Instalação
+
 Erro no npx mix - corrigido com npm i vue-loader
 Necessário utilizar o caminho completo no Kernel - \App\Http\Middleware\HandleInertiaRequests::class
+Recebi warning no firefox - comentado no Laracast
+
+S01E03 - Páginas e props
 
 
 
