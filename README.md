@@ -19,7 +19,11 @@ S01E03 - Páginas e props
 
 S01E04 - Inertia Link, Component
 
-S01E05 - 
+S01E05 - Instalando barra de progresso do Inertia
+
+S01E06 - Non GET Request - POST
+Basta definir method="post" no Inertia Link
+Estou recebendo status 500 - deveria receber status 200
 
 
 
